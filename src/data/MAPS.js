@@ -37,7 +37,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -48,7 +47,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '2': {
@@ -58,7 +56,6 @@ export default {
     isUnique: false,
     level: 68,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '3': {
@@ -68,7 +65,6 @@ export default {
     isUnique: false,
     level: 68,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '4': {
@@ -78,7 +74,6 @@ export default {
     isUnique: false,
     level: 69,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -89,7 +84,6 @@ export default {
     isUnique: false,
     level: 69,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -100,7 +94,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '7': {
@@ -110,7 +103,6 @@ export default {
     isUnique: false,
     level: 69,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '8': {
@@ -120,7 +112,6 @@ export default {
     isUnique: false,
     level: 69,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -131,7 +122,6 @@ export default {
     isUnique: false,
     level: 69,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '10': {
@@ -141,7 +131,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -152,7 +141,6 @@ export default {
     isUnique: false,
     level: 70,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -163,7 +151,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '13': {
@@ -173,7 +160,6 @@ export default {
     isUnique: false,
     level: 70,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '14': {
@@ -183,7 +169,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -194,7 +179,6 @@ export default {
     isUnique: false,
     level: 70,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '16': {
@@ -204,7 +188,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '17': {
@@ -214,7 +197,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '18': {
@@ -224,7 +206,6 @@ export default {
     isUnique: false,
     level: 70,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '19': {
@@ -234,7 +215,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '20': {
@@ -244,7 +224,6 @@ export default {
     isUnique: false,
     level: 71,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -255,7 +234,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -266,7 +244,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -277,7 +254,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '24': {
@@ -287,7 +263,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '25': {
@@ -297,7 +272,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '26': {
@@ -307,7 +281,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '27': {
@@ -317,7 +290,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '28': {
@@ -327,7 +299,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -338,7 +309,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '30': {
@@ -348,7 +318,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -359,7 +328,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -370,7 +338,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -381,7 +348,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '34': {
@@ -391,7 +357,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '35': {
@@ -401,7 +366,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -412,7 +376,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -423,7 +386,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '38': {
@@ -433,7 +395,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '39': {
@@ -443,7 +404,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '40': {
@@ -453,7 +413,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -464,7 +423,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -475,7 +433,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '43': {
@@ -485,7 +442,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '44': {
@@ -495,7 +451,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '45': {
@@ -505,7 +460,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '46': {
@@ -515,7 +469,6 @@ export default {
     isUnique: false,
     level: 73,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '47': {
@@ -525,7 +478,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '48': {
@@ -535,7 +487,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '49': {
@@ -545,7 +496,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '50': {
@@ -555,7 +505,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '51': {
@@ -565,7 +514,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -576,7 +524,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -587,7 +534,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -598,7 +544,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '55': {
@@ -608,7 +553,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '56': {
@@ -618,7 +562,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '57': {
@@ -628,7 +571,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -639,7 +581,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '59': {
@@ -649,7 +590,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -660,7 +600,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '61': {
@@ -670,7 +609,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '62': {
@@ -680,7 +618,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -691,7 +628,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -702,7 +638,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '65': {
@@ -712,7 +647,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '66': {
@@ -722,7 +656,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -733,7 +666,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '68': {
@@ -743,7 +675,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '69': {
@@ -753,7 +684,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '70': {
@@ -763,7 +693,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '71': {
@@ -773,7 +702,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '72': {
@@ -783,7 +711,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '73': {
@@ -793,7 +720,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -804,7 +730,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -815,7 +740,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '76': {
@@ -825,7 +749,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '77': {
@@ -835,7 +758,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '78': {
@@ -845,7 +767,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '79': {
@@ -855,7 +776,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '80': {
@@ -865,7 +785,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '81': {
@@ -875,7 +794,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '82': {
@@ -885,7 +803,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '83': {
@@ -895,7 +812,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '84': {
@@ -905,7 +821,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -916,7 +831,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '86': {
@@ -926,7 +840,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -937,7 +850,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '88': {
@@ -947,7 +859,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '89': {
@@ -957,7 +868,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '90': {
@@ -967,7 +877,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '91': {
@@ -977,7 +886,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '92': {
@@ -987,7 +895,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -998,7 +905,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '94': {
@@ -1008,7 +914,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '95': {
@@ -1018,7 +923,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '96': {
@@ -1028,7 +932,6 @@ export default {
     isUnique: false,
     level: 78,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '97': {
@@ -1038,7 +941,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '98': {
@@ -1048,7 +950,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '99': {
@@ -1058,7 +959,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '100': {
@@ -1068,7 +968,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '101': {
@@ -1078,7 +977,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '102': {
@@ -1088,7 +986,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '103': {
@@ -1098,7 +995,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '104': {
@@ -1108,7 +1004,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -1119,7 +1014,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -1130,7 +1024,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '107': {
@@ -1140,7 +1033,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '108': {
@@ -1150,7 +1042,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '109': {
@@ -1160,7 +1051,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '110': {
@@ -1170,7 +1060,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '111': {
@@ -1180,7 +1069,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '112': {
@@ -1190,7 +1078,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '113': {
@@ -1200,7 +1087,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -1211,7 +1097,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '115': {
@@ -1221,7 +1106,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -1232,7 +1116,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '117': {
@@ -1242,7 +1125,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '118': {
@@ -1252,7 +1134,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '119': {
@@ -1262,7 +1143,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '120': {
@@ -1272,7 +1152,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -1283,7 +1162,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '122': {
@@ -1293,7 +1171,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '123': {
@@ -1303,7 +1180,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '124': {
@@ -1313,7 +1189,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '125': {
@@ -1323,7 +1198,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -1334,7 +1208,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '127': {
@@ -1344,7 +1217,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -1355,7 +1227,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '129': {
@@ -1365,7 +1236,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -1376,7 +1246,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -1387,7 +1256,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -1398,7 +1266,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '133': {
@@ -1408,7 +1275,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
     releaseVersion: 3.1,
   },
@@ -1419,7 +1285,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '135': {
@@ -1429,7 +1294,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '136': {
@@ -1439,7 +1303,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '137': {
@@ -1449,7 +1312,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '138': {
@@ -1459,7 +1321,6 @@ export default {
     isUnique: false,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: -1,
   },
   '139': {
@@ -1469,7 +1330,6 @@ export default {
     isUnique: false,
     level: 70,
     isOnAtlas: false,
-    givesShaperOrb: false,
   },
   '140': {
     id: 140,
@@ -1478,7 +1338,6 @@ export default {
     isUnique: false,
     level: 70,
     isOnAtlas: false,
-    givesShaperOrb: false,
   },
   '141': {
     id: 141,
@@ -1487,7 +1346,6 @@ export default {
     isUnique: false,
     level: 70,
     isOnAtlas: false,
-    givesShaperOrb: false,
   },
   '142': {
     id: 142,
@@ -1496,7 +1354,6 @@ export default {
     isUnique: false,
     level: 70,
     isOnAtlas: false,
-    givesShaperOrb: false,
   },
   '143': {
     id: 143,
@@ -1505,7 +1362,6 @@ export default {
     isUnique: false,
     level: 75,
     isOnAtlas: false,
-    givesShaperOrb: false,
   },
   '144': {
     id: 144,
@@ -1514,7 +1370,6 @@ export default {
     isUnique: false,
     level: 75,
     isOnAtlas: false,
-    givesShaperOrb: false,
   },
   '145': {
     id: 145,
@@ -1523,7 +1378,6 @@ export default {
     isUnique: false,
     level: 75,
     isOnAtlas: false,
-    givesShaperOrb: false,
   },
   '146': {
     id: 146,
@@ -1532,7 +1386,6 @@ export default {
     isUnique: false,
     level: 80,
     isOnAtlas: false,
-    givesShaperOrb: false,
   },
   '147': {
     id: 147,
@@ -1541,7 +1394,6 @@ export default {
     isUnique: false,
     level: 80,
     isOnAtlas: false,
-    givesShaperOrb: false,
   },
   '148': {
     id: 148,
@@ -1550,7 +1402,6 @@ export default {
     isUnique: false,
     level: 84,
     isOnAtlas: true,
-    givesShaperOrb: false,
   },
   '149': {
     id: 149,
@@ -1559,7 +1410,6 @@ export default {
     isUnique: true,
     level: 70,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: 5,
   },
   '150': {
@@ -1569,7 +1419,6 @@ export default {
     isUnique: true,
     level: 71,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: 5,
   },
   '151': {
@@ -1579,7 +1428,6 @@ export default {
     isUnique: true,
     level: 72,
     isOnAtlas: false,
-    givesShaperOrb: false,
   },
   '152': {
     id: 152,
@@ -1588,7 +1436,6 @@ export default {
     isUnique: true,
     level: 73,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: 5,
   },
   '153': {
@@ -1598,7 +1445,6 @@ export default {
     isUnique: true,
     level: 74,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: 5,
   },
   '154': {
@@ -1608,7 +1454,6 @@ export default {
     isUnique: true,
     level: 75,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: 4,
   },
   '155': {
@@ -1618,7 +1463,6 @@ export default {
     isUnique: true,
     level: 75,
     isOnAtlas: false,
-    givesShaperOrb: false,
   },
   '156': {
     id: 156,
@@ -1627,7 +1471,6 @@ export default {
     isUnique: true,
     level: 76,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: 7,
   },
   '157': {
@@ -1637,7 +1480,6 @@ export default {
     isUnique: true,
     level: 76,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: 6,
   },
   '158': {
@@ -1647,7 +1489,6 @@ export default {
     isUnique: true,
     level: 76,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: 5,
   },
   '159': {
@@ -1657,7 +1498,6 @@ export default {
     isUnique: true,
     level: 76,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: 6,
   },
   '160': {
@@ -1667,7 +1507,6 @@ export default {
     isUnique: true,
     level: 76,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: 2,
   },
   '161': {
@@ -1687,7 +1526,6 @@ export default {
     isUnique: true,
     level: 77,
     isOnAtlas: false,
-    givesShaperOrb: false,
   },
   '163': {
     id: 163,
@@ -1706,7 +1544,6 @@ export default {
     isUnique: true,
     level: 77,
     isOnAtlas: true,
-    givesShaperOrb: false,
     sextantCoverageIncludingSelf: 6,
   },
   '165': {
@@ -1736,7 +1573,6 @@ export default {
     isUnique: true,
     level: 82,
     isOnAtlas: false,
-    givesShaperOrb: false,
   },
   '168': {
     id: 168,
@@ -1745,7 +1581,6 @@ export default {
     isUnique: true,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     releaseVersion: 3.1,
   },
   '169': {
@@ -1755,7 +1590,6 @@ export default {
     isUnique: true,
     level: -1,
     isOnAtlas: true,
-    givesShaperOrb: false,
     releaseVersion: 3.1,
   },
 };
