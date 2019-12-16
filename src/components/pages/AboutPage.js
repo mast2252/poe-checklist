@@ -22,21 +22,9 @@ export default class AboutPage extends React.Component {
             <p>
               This site will help you keep track of some of the content that
               you'll want to finish at the start of a league, or character.{' '}
-              <br />If you check an item, it will be stored on your machine, so
-              next time you come back, the information will still be here.
-            </p>
-
-            <p css={`margin-top: 25px`}>
-              If you have any questions, contact me at{' '}
-              <a href={EMAIL}>{EMAIL}</a>, on the{' '}
-              <a
-                href="https://github.com/MatisLepik/poe-checklist"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Github page
-              </a>{' '}
-              or on <a href="https://www.reddit.com/user/MatisLepik">Reddit</a>.
+              <br />
+              If you check an item, it will be stored on your machine, so next
+              time you come back, the information will still be here.
             </p>
           </PageDescription>
         </Panel>
